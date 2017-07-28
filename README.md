@@ -1,1 +1,1 @@
-# vim_setting
+包含bundle 插件管理和自己的vim配置
